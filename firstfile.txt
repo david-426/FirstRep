@@ -1,0 +1,5 @@
+here we go
+ls
+pwd
+$ ;s
+end
